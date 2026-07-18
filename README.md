@@ -20,6 +20,14 @@ The dashboard enables business users to make data-driven decisions through inter
 
 ---
 
+## 📸 Dashboard Preview
+
+
+![Dashboard](screenshots/dashboard.jpg)
+
+
+---
+
 ## 📊 Dashboard Features
 
 ### 📈 Sales Analysis
@@ -148,18 +156,6 @@ This dashboard helps answer questions such as:
 - Business Analytics
 - Data Visualization
 - Performance Analysis
-
----
-
-## 📸 Dashboard Preview
-
-> Dashboard screenshots can be added inside the **screenshots/** folder and displayed here.
-
-Example:
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
 
 ---
 
